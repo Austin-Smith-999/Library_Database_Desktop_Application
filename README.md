@@ -1,5 +1,5 @@
 # Library_Database_Desktop_Application
-A library desktop database application using the Tkinter python library.  
+A library desktop database application using the Tkinter python library.  Built while going through a udemy tutorial.  
 
 
 <b>You can store the following information into database: </b>
