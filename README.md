@@ -1,3 +1,5 @@
+To use please just download the .zip here, then run by running "frontend_afs.py"
+
 # Library_Database_Desktop_Application
 A library desktop database application using the Tkinter python library.  Built while going through a udemy tutorial.  
 
